@@ -1,0 +1,2818 @@
+{
+    "export_date_utc": "2024-02-15T15:30:21.691624",
+    "repo_teams": {
+        "write": {
+            ".github": [
+                "axim-engineering",
+                "cla-checker"
+            ],
+            "AudioXBlock": [
+                "2u-edx-legacy",
+                "arbi-bom",
+                "cla-checker"
+            ],
+            "ConceptXBlock": [
+                "2u-edx-legacy",
+                "arbi-bom",
+                "cla-checker"
+            ],
+            "DoneXBlock": [
+                "2u-edx-legacy",
+                "axim-aximprovements",
+                "cla-checker",
+                "openedx-rtd-bot"
+            ],
+            "FeedbackXBlock": [
+                "axim-aximprovements",
+                "cla-checker",
+                "edx-requirements-bot"
+            ],
+            "MongoDBProxy": [
+                "2u-edx-legacy",
+                "cla-checker"
+            ],
+            "RecommenderXBlock": [
+                "2u-edx-legacy",
+                "cla-checker"
+            ],
+            "TinCanPython": [
+                "2u-edx-legacy",
+                "cla-checker"
+            ],
+            "XBlock": [
+                "2u-edx-legacy",
+                "arbi-bom",
+                "arch-bom",
+                "axim-aximprovements",
+                "ccp-committer-bradenmacdonald",
+                "ccp-committer-felipemontoya",
+                "ccp-committer-pdpinch",
+                "cla-checker"
+            ],
+            "acid-block": [
+                "2u-edx-legacy",
+                "cla-checker"
+            ],
+            "api-doc-tools": [
+                "2u-edx-legacy",
+                "arbi-bom",
+                "cla-checker",
+                "teaching-and-learning"
+            ],
+            "aspects-dbt": [
+                "aspects-dbt-writers",
+                "axim-aximprovements",
+                "cla-checker",
+                "committers-analytics"
+            ],
+            "auth-backends": [
+                "2u-edx-legacy",
+                "arbi-bom",
+                "cla-checker"
+            ],
+            "axim-engineering": [
+                "axim-aximprovements",
+                "axim-staff",
+                "cla-checker"
+            ],
+            "blockstore": [
+                "2u-edx-legacy",
+                "blockstore-maintainers",
+                "cla-checker",
+                "community-release-managers"
+            ],
+            "brand-openedx": [
+                "2u-edx-legacy",
+                "cla-checker",
+                "frontend-all",
+                "openedx-npm-release-bots"
+            ],
+            "browserslist-config": [
+                "cla-checker",
+                "fed-bom",
+                "frontend-all"
+            ],
+            "cc2olx": [
+                "2u-edx-legacy",
+                "cla-checker",
+                "masters-devs-cosmonauts"
+            ],
+            "ccx-keys": [
+                "2u-edx-legacy",
+                "cla-checker"
+            ],
+            "code-annotations": [
+                "2u-edx-legacy",
+                "ccp-committer-bmtcril",
+                "cla-checker"
+            ],
+            "codejail": [
+                "2u-edx-legacy",
+                "cla-checker"
+            ],
+            "codejail-includes": [
+                "arbi-bom",
+                "cla-checker"
+            ],
+            "completion": [
+                "2u-edx-legacy",
+                "ccp-committer-pkulkark",
+                "cla-checker"
+            ],
+            "conference-planning-2024": [
+                "cla-checker"
+            ],
+            "conference-planning-2024-private": [
+                "cla-checker"
+            ],
+            "configuration": [
+                "2u-edx-legacy",
+                "2u-sre",
+                "ccp-committer-jfavellar90",
+                "ccp-committer-mtyaka",
+                "ccp-committer-pomegranited",
+                "cla-checker",
+                "community-release-managers"
+            ],
+            "course-discovery": [
+                "ccp-committer-bmtcril",
+                "cla-checker",
+                "community-release-managers",
+                "course-discovery-maintainers",
+                "edx-requirements-bot"
+            ],
+            "credentials": [
+                "2u-aperture",
+                "2u-edx-legacy",
+                "ccp-committer-glugovgrglib",
+                "cla-checker",
+                "community-release-managers",
+                "content-aurora",
+                "masters-devs-cosmonauts"
+            ],
+            "credentials-themes": [
+                "2u-edx-legacy",
+                "ccp-committer-glugovgrglib",
+                "cla-checker"
+            ],
+            "crowdsourcehinter": [
+                "2u-edx-legacy",
+                "cla-checker"
+            ],
+            "cs_comments_service": [
+                "2u-edx-legacy",
+                "ccp-committer-mtyaka",
+                "ccp-committer-xitij2000",
+                "cla-checker",
+                "community-release-managers"
+            ],
+            "cypress-e2e-tests": [
+                "2u-edx-legacy",
+                "ccp-committer-cmltawt0",
+                "cla-checker",
+                "frontend-all"
+            ],
+            "devstack": [
+                "2u-edx-legacy",
+                "2u-kubrick",
+                "ccp-committer-cmltawt0",
+                "ccp-committer-regisb",
+                "cla-checker",
+                "community-release-managers"
+            ],
+            "django-config-models": [
+                "2u-edx-legacy",
+                "arbi-bom",
+                "ccp-committer-regisb",
+                "cla-checker"
+            ],
+            "django-lang-pref-middleware": [
+                "2u-edx-legacy",
+                "arbi-bom",
+                "cla-checker"
+            ],
+            "django-multi-email-field": [
+                "cla-checker"
+            ],
+            "django-pyfs": [
+                "2u-edx-legacy",
+                "arbi-bom",
+                "cla-checker"
+            ],
+            "django-require": [
+                "2u-edx-legacy",
+                "cla-checker"
+            ],
+            "django-splash": [
+                "2u-edx-legacy",
+                "arbi-bom",
+                "cla-checker"
+            ],
+            "django-user-tasks": [
+                "2u-edx-legacy",
+                "arbi-bom",
+                "cla-checker"
+            ],
+            "django-wiki": [
+                "2u-edx-legacy",
+                "arbi-bom",
+                "cla-checker"
+            ],
+            "docs.openedx.org": [
+                "ccp-committer-pdpinch",
+                "cla-checker",
+                "community-release-managers",
+                "edx-requirements-bot"
+            ],
+            "ecommerce": [
+                "cla-checker",
+                "community-release-managers",
+                "ecommerce-maintainers",
+                "edx-transifex-translations",
+                "openedx-rtd-bot"
+            ],
+            "ecommerce-scripts": [
+                "2u-edx-legacy",
+                "cla-checker"
+            ],
+            "ecommerce-worker": [
+                "cla-checker",
+                "community-release-managers",
+                "ecommerce-maintainers",
+                "edx-requirements-bot"
+            ],
+            "edx-ace": [
+                "2u-edx-legacy",
+                "arbi-bom",
+                "cla-checker",
+                "vanguards"
+            ],
+            "edx-analytics-configuration": [
+                "analytics-push",
+                "ccp-committer-pomegranited",
+                "cla-checker",
+                "community-release-managers"
+            ],
+            "edx-analytics-dashboard": [
+                "2u-edx-legacy",
+                "analytics-push",
+                "ccp-committer-pomegranited",
+                "cla-checker",
+                "community-release-managers",
+                "edx-transifex-translations",
+                "masters-devs-cosmonauts"
+            ],
+            "edx-analytics-data-api": [
+                "2u-edx-legacy",
+                "analytics-push",
+                "ccp-committer-pomegranited",
+                "cla-checker",
+                "community-release-managers",
+                "masters-devs-cosmonauts"
+            ],
+            "edx-analytics-data-api-client": [
+                "2u-edx-legacy",
+                "analytics-push",
+                "cla-checker"
+            ],
+            "edx-analytics-exporter": [
+                "2u-edx-legacy",
+                "cla-checker"
+            ],
+            "edx-analytics-pipeline": [
+                "2u-edx-legacy",
+                "analytics-push",
+                "ccp-committer-pomegranited",
+                "cla-checker",
+                "community-release-managers"
+            ],
+            "edx-app-android": [
+                "cla-checker",
+                "community-release-managers",
+                "edx-mobile-push"
+            ],
+            "edx-app-gradle-plugin": [
+                "2u-edx-legacy",
+                "cla-checker",
+                "edx-mobile-push"
+            ],
+            "edx-app-ios": [
+                "cla-checker",
+                "community-release-managers",
+                "edx-mobile-push"
+            ],
+            "edx-app-test": [
+                "ccp-committer-cmltawt0",
+                "cla-checker",
+                "edx-mobile-push"
+            ],
+            "edx-bootstrap": [
+                "2u-edx-legacy",
+                "cla-checker",
+                "frontend-all",
+                "openedx-npm-release-bots"
+            ],
+            "edx-bulk-grades": [
+                "2u-edx-legacy",
+                "cla-checker"
+            ],
+            "edx-celeryutils": [
+                "2u-edx-legacy",
+                "arbi-bom",
+                "cla-checker"
+            ],
+            "edx-cookiecutters": [
+                "2u-edx-legacy",
+                "arbi-bom",
+                "cla-checker"
+            ],
+            "edx-django-release-util": [
+                "2u-edx-legacy",
+                "cla-checker"
+            ],
+            "edx-django-sites-extensions": [
+                "2u-edx-legacy",
+                "cla-checker"
+            ],
+            "edx-django-utils": [
+                "2u-edx-legacy",
+                "arbi-bom",
+                "cla-checker",
+                "edx-transifex-translations",
+                "fedx-team"
+            ],
+            "edx-documentation": [
+                "2u-edx-legacy",
+                "ccp-committer-pdpinch",
+                "cla-checker",
+                "community-release-managers"
+            ],
+            "edx-drf-extensions": [
+                "2u-edx-legacy",
+                "arbi-bom",
+                "cla-checker"
+            ],
+            "edx-enterprise": [
+                "2u-edx-legacy",
+                "cla-checker",
+                "enterprise-quokkas",
+                "enterprise-titans"
+            ],
+            "edx-enterprise-data": [
+                "2u-edx-legacy",
+                "ccp-committer-bmtcril",
+                "cla-checker",
+                "enterprise-quokkas"
+            ],
+            "edx-enterprise-subsidy-client": [
+                "2u-edx-legacy",
+                "cla-checker"
+            ],
+            "edx-lint": [
+                "2u-edx-legacy",
+                "arbi-bom",
+                "cla-checker"
+            ],
+            "edx-milestones": [
+                "2u-edx-legacy",
+                "cla-checker"
+            ],
+            "edx-notes-api": [
+                "2u-edx-legacy",
+                "axim-aximprovements",
+                "cla-checker",
+                "community-release-managers"
+            ],
+            "edx-ora2": [
+                "2u-edx-legacy",
+                "ccp-committer-pomegranited",
+                "cla-checker",
+                "edx-transifex-translations"
+            ],
+            "edx-organizations": [
+                "2u-edx-legacy",
+                "arbi-bom",
+                "arch-bom",
+                "ccp-committer-idegtiarov",
+                "cla-checker"
+            ],
+            "edx-platform": [
+                "2u-aperture",
+                "2u-edx-legacy",
+                "2u-kubrick",
+                "2u-mobile-axinite",
+                "arbi-bom",
+                "axim-oncall",
+                "ccp-committer-agrendalath",
+                "ccp-committer-arbrandes",
+                "ccp-committer-bmtcril",
+                "ccp-committer-bradenmacdonald",
+                "ccp-committer-farhaanbukhsh",
+                "ccp-committer-felipemontoya",
+                "ccp-committer-mafermazu",
+                "ccp-committer-mariajgrimaldi",
+                "ccp-committer-mtyaka",
+                "ccp-committer-navinkarkera",
+                "ccp-committer-pdpinch",
+                "ccp-committer-pkulkark",
+                "ccp-committer-ziafazal",
+                "cla-checker",
+                "committers-edx-platform",
+                "community-release-managers",
+                "edx-transifex-translations",
+                "frontend-all",
+                "openedx-rtd-bot",
+                "pipeline-bot"
+            ],
+            "edx-proctoring": [
+                "2u-edx-legacy",
+                "ccp-committer-idegtiarov",
+                "cla-checker",
+                "content-aurora",
+                "edx-transifex-translations",
+                "masters-devs-cosmonauts"
+            ],
+            "edx-rbac": [
+                "2u-edx-legacy",
+                "arbi-bom",
+                "cla-checker"
+            ],
+            "edx-repo-health": [
+                "2u-edx-legacy",
+                "arbi-bom",
+                "cla-checker"
+            ],
+            "edx-rest-api-client": [
+                "2u-edx-legacy",
+                "arbi-bom",
+                "cla-checker"
+            ],
+            "edx-search": [
+                "2u-edx-legacy",
+                "2u-kubrick",
+                "ccp-committer-idegtiarov",
+                "cla-checker"
+            ],
+            "edx-submissions": [
+                "2u-edx-legacy",
+                "cla-checker"
+            ],
+            "edx-toggles": [
+                "2u-edx-legacy",
+                "arbi-bom",
+                "cla-checker"
+            ],
+            "edx-tools": [
+                "2u-edx-legacy",
+                "cla-checker"
+            ],
+            "edx-ui-toolkit": [
+                "2u-edx-legacy",
+                "cla-checker",
+                "fedx-team",
+                "frontend-all"
+            ],
+            "edx-val": [
+                "2u-edx-legacy",
+                "cla-checker"
+            ],
+            "edx-when": [
+                "2u-edx-legacy",
+                "cla-checker"
+            ],
+            "enmerkar-underscore": [
+                "2u-edx-legacy",
+                "arbi-bom",
+                "cla-checker"
+            ],
+            "enterprise-access": [
+                "2u-edx-legacy",
+                "cla-checker",
+                "community-release-managers",
+                "enterprise-quokkas"
+            ],
+            "enterprise-catalog": [
+                "2u-edx-legacy",
+                "cla-checker",
+                "community-release-managers",
+                "enterprise-quokkas",
+                "enterprise-titans"
+            ],
+            "enterprise-subsidy": [
+                "2u-edx-legacy",
+                "cla-checker"
+            ],
+            "eslint-config": [
+                "2u-edx-legacy",
+                "cla-checker",
+                "fedx-team",
+                "frontend-all"
+            ],
+            "event-bus-kafka": [
+                "2u-edx-legacy",
+                "arbi-bom",
+                "ccp-committer-bmtcril",
+                "cla-checker"
+            ],
+            "event-bus-redis": [
+                "axim-aximprovements",
+                "ccp-committer-navinkarkera",
+                "cla-checker",
+                "committers-analytics"
+            ],
+            "event-routing-backends": [
+                "2u-edx-legacy",
+                "axim-aximprovements",
+                "cc-events",
+                "cla-checker",
+                "committers-event-routing-backends"
+            ],
+            "event-tracking": [
+                "2u-edx-legacy",
+                "analytics-push",
+                "arbi-bom",
+                "cc-events",
+                "cla-checker"
+            ],
+            "frontend-app-account": [
+                "2u-edx-legacy",
+                "2u-kubrick",
+                "cla-checker",
+                "community-release-managers",
+                "edx-transifex-translations",
+                "frontend-all",
+                "frontend-mfes-all"
+            ],
+            "frontend-app-admin-portal": [
+                "2u-edx-legacy",
+                "cla-checker",
+                "enterprise-quokkas",
+                "frontend-all",
+                "frontend-mfes-all"
+            ],
+            "frontend-app-authn": [
+                "2u-edx-legacy",
+                "cla-checker",
+                "community-release-managers",
+                "edx-transifex-translations",
+                "frontend-all",
+                "frontend-mfes-all",
+                "vanguards"
+            ],
+            "frontend-app-communications": [
+                "2u-aperture",
+                "2u-edx-legacy",
+                "cla-checker",
+                "community-release-managers",
+                "edx-transifex-translations",
+                "frontend-all",
+                "frontend-mfes-all"
+            ],
+            "frontend-app-course-authoring": [
+                "2u-edx-legacy",
+                "2u-kubrick",
+                "ccp-committer-xitij2000",
+                "cla-checker",
+                "community-release-managers",
+                "content-aurora",
+                "edx-transifex-translations",
+                "frontend-all",
+                "frontend-mfes-all",
+                "masters-devs-cosmonauts",
+                "teaching-and-learning"
+            ],
+            "frontend-app-discussions": [
+                "2u-edx-legacy",
+                "ccp-committer-xitij2000",
+                "cla-checker",
+                "community-release-managers",
+                "frontend-all",
+                "frontend-mfes-all"
+            ],
+            "frontend-app-ecommerce": [
+                "cla-checker",
+                "community-release-managers",
+                "ecommerce-maintainers",
+                "edx-transifex-translations"
+            ],
+            "frontend-app-enterprise-public-catalog": [
+                "2u-edx-legacy",
+                "cla-checker",
+                "frontend-all",
+                "frontend-mfes-all",
+                "openedx-npm-release-bots"
+            ],
+            "frontend-app-gradebook": [
+                "2u-edx-legacy",
+                "ccp-committer-bbrsofiane",
+                "cla-checker",
+                "community-release-managers",
+                "content-aurora",
+                "frontend-all",
+                "frontend-mfes-all",
+                "openedx-npm-release-bots"
+            ],
+            "frontend-app-learner-dashboard": [
+                "2u-edx-legacy",
+                "cla-checker",
+                "community-release-managers",
+                "edx-transifex-translations",
+                "frontend-all",
+                "frontend-mfes-all",
+                "masters-devs-cosmonauts"
+            ],
+            "frontend-app-learner-portal-enterprise": [
+                "2u-edx-legacy",
+                "cla-checker",
+                "enterprise-quokkas",
+                "frontend-all",
+                "frontend-mfes-all",
+                "openedx-npm-release-bots"
+            ],
+            "frontend-app-learner-portal-programs": [
+                "2u-edx-legacy",
+                "2u-kubrick",
+                "cla-checker",
+                "frontend-all",
+                "frontend-mfes-all"
+            ],
+            "frontend-app-learner-record": [
+                "2u-aperture",
+                "2u-edx-legacy",
+                "ccp-committer-glugovgrglib",
+                "cla-checker",
+                "community-release-managers",
+                "edx-requirements-bot",
+                "edx-transifex-translations",
+                "frontend-all",
+                "frontend-mfes-all"
+            ],
+            "frontend-app-learning": [
+                "2u-edx-legacy",
+                "2u-kubrick",
+                "ccp-committer-bbrsofiane",
+                "cla-checker",
+                "community-release-managers",
+                "fedx-team",
+                "frontend-all",
+                "frontend-mfes-all"
+            ],
+            "frontend-app-library-authoring": [
+                "ccp-committer-arbrandes",
+                "ccp-committer-navinkarkera",
+                "cla-checker",
+                "frontend-all",
+                "frontend-mfes-all"
+            ],
+            "frontend-app-ora": [
+                "cla-checker",
+                "community-release-managers",
+                "content-aurora",
+                "edx-transifex-translations",
+                "frontend-all",
+                "frontend-mfes-all"
+            ],
+            "frontend-app-ora-grading": [
+                "2u-edx-legacy",
+                "cla-checker",
+                "community-release-managers",
+                "edx-transifex-translations",
+                "frontend-all",
+                "frontend-mfes-all"
+            ],
+            "frontend-app-payment": [
+                "cla-checker",
+                "community-release-managers",
+                "ecommerce-maintainers",
+                "edx-transifex-translations",
+                "frontend-all",
+                "frontend-mfes-all"
+            ],
+            "frontend-app-profile": [
+                "2u-edx-legacy",
+                "ccp-committer-bbrsofiane",
+                "cla-checker",
+                "community-release-managers",
+                "edx-transifex-translations",
+                "frontend-all",
+                "frontend-mfes-all"
+            ],
+            "frontend-app-program-console": [
+                "2u-edx-legacy",
+                "cla-checker",
+                "frontend-all",
+                "frontend-mfes-all",
+                "openedx-npm-release-bots"
+            ],
+            "frontend-app-programs-dashboard": [
+                "2u-edx-legacy",
+                "cla-checker",
+                "frontend-all",
+                "frontend-mfes-all"
+            ],
+            "frontend-app-publisher": [
+                "cla-checker",
+                "community-release-managers",
+                "course-discovery-maintainers",
+                "edx-transifex-translations",
+                "frontend-all",
+                "frontend-mfes-all",
+                "pipeline-bot"
+            ],
+            "frontend-app-shell": [
+                "cla-checker",
+                "frontend-all",
+                "frontend-mfes-all",
+                "frontend-mfes-base"
+            ],
+            "frontend-app-support-tools": [
+                "2u-edx-legacy",
+                "cla-checker",
+                "community-release-managers",
+                "edx-transifex-translations",
+                "frontend-all",
+                "frontend-mfes-all"
+            ],
+            "frontend-build": [
+                "2u-edx-legacy",
+                "ccp-committer-bbrsofiane",
+                "cla-checker",
+                "frontend-all",
+                "frontend-mfes-all",
+                "frontend-mfes-base"
+            ],
+            "frontend-component-ai-translations": [
+                "2u-supernova",
+                "cla-checker",
+                "committers-frontend-component-ai-translations",
+                "openedx-npm-release-bots"
+            ],
+            "frontend-component-cookie-policy-banner": [
+                "2u-edx-legacy",
+                "cla-checker",
+                "frontend-all",
+                "frontend-mfes-all",
+                "frontend-mfes-base",
+                "openedx-npm-release-bots"
+            ],
+            "frontend-component-footer": [
+                "2u-edx-legacy",
+                "cla-checker",
+                "edx-transifex-translations",
+                "frontend-all",
+                "frontend-mfes-all",
+                "frontend-mfes-base"
+            ],
+            "frontend-component-header": [
+                "2u-edx-legacy",
+                "cla-checker",
+                "edx-transifex-translations",
+                "frontend-all",
+                "frontend-mfes-all",
+                "frontend-mfes-base"
+            ],
+            "frontend-components-tinymce-advanced-plugins": [
+                "cla-checker",
+                "teaching-and-learning"
+            ],
+            "frontend-enterprise": [
+                "2u-edx-legacy",
+                "cla-checker",
+                "enterprise-quokkas",
+                "frontend-all",
+                "frontend-mfes-all",
+                "openedx-npm-release-bots"
+            ],
+            "frontend-lib-content-components": [
+                "cla-checker",
+                "frontend-all",
+                "frontend-mfes-all"
+            ],
+            "frontend-lib-special-exams": [
+                "2u-edx-legacy",
+                "cla-checker",
+                "frontend-all",
+                "frontend-mfes-all"
+            ],
+            "frontend-platform": [
+                "2u-edx-legacy",
+                "ccp-committer-bbrsofiane",
+                "cla-checker",
+                "frontend-all",
+                "frontend-mfes-all",
+                "frontend-mfes-base"
+            ],
+            "frontend-plugin-framework": [
+                "2u-aperture",
+                "cla-checker"
+            ],
+            "frontend-template-application": [
+                "2u-edx-legacy",
+                "cla-checker",
+                "community-release-managers",
+                "frontend-all",
+                "frontend-mfes-all",
+                "frontend-mfes-base",
+                "openedx-npm-release-bots"
+            ],
+            "help-tokens": [
+                "2u-edx-legacy",
+                "arbi-bom",
+                "cla-checker"
+            ],
+            "i18n-tools": [
+                "2u-edx-legacy",
+                "cla-checker",
+                "domain-translations"
+            ],
+            "license-manager": [
+                "2u-edx-legacy",
+                "cla-checker",
+                "community-release-managers",
+                "enterprise-quokkas"
+            ],
+            "mdrst": [
+                "2u-edx-legacy",
+                "cla-checker"
+            ],
+            "mockprock": [
+                "2u-edx-legacy",
+                "cla-checker"
+            ],
+            "modular-learning": [
+                "cla-checker"
+            ],
+            "olxcleaner": [
+                "cla-checker"
+            ],
+            "onboarding-course-introduction": [
+                "cla-checker"
+            ],
+            "opaque-keys": [
+                "2u-edx-legacy",
+                "arbi-bom",
+                "arch-bom",
+                "axim-aximprovements",
+                "cla-checker",
+                "edx-requirements-bot"
+            ],
+            "open-edx-proposals": [
+                "2u-edx-legacy",
+                "arbi-bom",
+                "cla-checker",
+                "core-contributor-program-committers"
+            ],
+            "openedx-app-android": [
+                "2u-mobile-axinite",
+                "cla-checker",
+                "committers-openedx-mobile"
+            ],
+            "openedx-app-ios": [
+                "2u-mobile-axinite",
+                "cla-checker",
+                "committers-openedx-mobile"
+            ],
+            "openedx-app-test": [
+                "rg-mobile"
+            ],
+            "openedx-aspects": [
+                "axim-aximprovements",
+                "ccp-committer-ian2012",
+                "cla-checker",
+                "committers-analytics",
+                "openedx-aspects-writers"
+            ],
+            "openedx-atlas": [
+                "cla-checker",
+                "domain-translations"
+            ],
+            "openedx-backstage": [
+                "axim-engineering",
+                "cla-checker"
+            ],
+            "openedx-calc": [
+                "2u-edx-legacy",
+                "cla-checker"
+            ],
+            "openedx-chem": [
+                "2u-edx-legacy",
+                "cla-checker"
+            ],
+            "openedx-con-materials": [
+                "cla-checker"
+            ],
+            "openedx-conference-website": [
+                "cla-checker"
+            ],
+            "openedx-demo-course": [
+                "2u-edx-legacy",
+                "cla-checker",
+                "community-release-managers"
+            ],
+            "openedx-event-sink-clickhouse": [
+                "axim-aximprovements",
+                "ccp-committer-ian2012",
+                "cla-checker",
+                "committers-analytics",
+                "openedx-event-sink-clickhouse-writers"
+            ],
+            "openedx-events": [
+                "cc-events",
+                "ccp-committer-navinkarkera",
+                "cla-checker"
+            ],
+            "openedx-filters": [
+                "cla-checker",
+                "openedx-rtd-bot"
+            ],
+            "openedx-i18n": [
+                "cla-checker",
+                "community-release-managers"
+            ],
+            "openedx-k8s-harmony": [
+                "ccp-committer-gabor-boros",
+                "cla-checker"
+            ],
+            "openedx-learning": [
+                "axim-aximprovements",
+                "axim-engineering",
+                "cc-modular-learning",
+                "cla-checker",
+                "edx-requirements-bot"
+            ],
+            "openedx-ledger": [
+                "2u-edx-legacy",
+                "cla-checker"
+            ],
+            "openedx-slack-invite": [
+                "cla-checker"
+            ],
+            "openedx-tech-radar": [
+                "cla-checker"
+            ],
+            "openedx-test-course": [
+                "axim-engineering",
+                "cla-checker",
+                "community-release-managers"
+            ],
+            "openedx-translations": [
+                "cla-checker",
+                "domain-translations"
+            ],
+            "openedx-tutor-plugins": [
+                "cla-checker"
+            ],
+            "openedx-webhooks": [
+                "2u-edx-legacy",
+                "cla-checker",
+                "openedx-rtd-bot",
+                "openedx-webhooks-maintainers"
+            ],
+            "openedx-webhooks-data": [
+                "axim-engineering",
+                "cla-checker",
+                "openedx-webhooks-maintainers"
+            ],
+            "openedx-wordpress-ecommerce": [
+                "cla-checker",
+                "openedx-rtd-bot"
+            ],
+            "paragon": [
+                "2u-edx-legacy",
+                "cla-checker",
+                "fedx-team",
+                "frontend-all"
+            ],
+            "pinax-announcements": [
+                "cla-checker"
+            ],
+            "platform-roadmap": [
+                "axim-engineering",
+                "axim-staff",
+                "cla-checker",
+                "core-contributor-program-committers",
+                "roadmap-editors"
+            ],
+            "pr_watcher_configuration": [
+                "cla-checker"
+            ],
+            "pr_watcher_notifier": [
+                "cla-checker"
+            ],
+            "public-engineering": [
+                "axim-engineering",
+                "axim-staff",
+                "cla-checker",
+                "depr-wg"
+            ],
+            "pytest-repo-health": [
+                "2u-edx-legacy",
+                "arbi-bom",
+                "cla-checker"
+            ],
+            "pytest-warnings-report": [
+                "2u-edx-legacy",
+                "arbi-bom",
+                "cla-checker"
+            ],
+            "react-unit-test-utils": [
+                "cla-checker",
+                "content-aurora",
+                "frontend-all",
+                "openedx-npm-release-bots"
+            ],
+            "reactifex": [
+                "2u-edx-legacy",
+                "cla-checker"
+            ],
+            "registrar": [
+                "2u-edx-legacy",
+                "cla-checker",
+                "content-aurora",
+                "masters-devs-cosmonauts"
+            ],
+            "repo-tools": [
+                "2u-edx-legacy",
+                "arbi-bom",
+                "cla-checker",
+                "community-release-managers"
+            ],
+            "repo-tools-data-schema": [
+                "2u-edx-legacy",
+                "cla-checker",
+                "openedx-webhooks-maintainers"
+            ],
+            "sample-themes": [
+                "2u-edx-legacy",
+                "cla-checker"
+            ],
+            "schoolyourself-xblock": [
+                "2u-edx-legacy",
+                "cla-checker"
+            ],
+            "staff_graded-xblock": [
+                "2u-edx-legacy",
+                "cla-checker"
+            ],
+            "studio-frontend": [
+                "2u-edx-legacy",
+                "2u-kubrick",
+                "cla-checker",
+                "frontend-all",
+                "openedx-npm-release-bots"
+            ],
+            "stylelint-config-edx": [
+                "2u-edx-legacy",
+                "cla-checker",
+                "fedx-team",
+                "frontend-all"
+            ],
+            "super-csv": [
+                "2u-edx-legacy",
+                "cla-checker",
+                "content-aurora"
+            ],
+            "taxonomy-connector": [
+                "cla-checker",
+                "openedx-npm-release-bots"
+            ],
+            "testeng-ci": [
+                "2u-edx-legacy",
+                "arch-bom",
+                "cla-checker",
+                "community-release-managers"
+            ],
+            "tinymce-language-selector": [
+                "2u-edx-legacy",
+                "cla-checker",
+                "openedx-npm-release-bots"
+            ],
+            "training-courses": [
+                "cla-checker"
+            ],
+            "tubular": [
+                "2u-edx-legacy",
+                "ccp-committer-bmtcril",
+                "cla-checker",
+                "community-release-managers"
+            ],
+            "tutor-contrib-aspects": [
+                "axim-aximprovements",
+                "ccp-committer-ian2012",
+                "cla-checker",
+                "committers-analytics"
+            ],
+            "tutor-contrib-coursegraph": [
+                "cla-checker"
+            ],
+            "tutor-contrib-event-bus-redis": [
+                "cla-checker"
+            ],
+            "typescript-config": [
+                "2u-edx-legacy",
+                "cla-checker",
+                "frontend-all"
+            ],
+            "user-util": [
+                "2u-edx-legacy",
+                "cla-checker"
+            ],
+            "web-fragments": [
+                "2u-edx-legacy",
+                "arbi-bom",
+                "cla-checker"
+            ],
+            "webhook-test-repo": [
+                "cla-checker"
+            ],
+            "wg-architecture-coordination": [
+                "cla-checker",
+                "core-contributor-program-committers"
+            ],
+            "wg-build-test-release": [
+                "cla-checker",
+                "core-contributor-program-committers"
+            ],
+            "wg-coordination": [
+                "cla-checker",
+                "core-contributor-program-committers"
+            ],
+            "wg-data": [
+                "ccp-committer-bmtcril",
+                "ccp-committer-ian2012",
+                "cla-checker",
+                "committers-analytics",
+                "core-contributor-program-committers"
+            ],
+            "wg-developer-experience": [
+                "cla-checker",
+                "core-contributor-program-committers"
+            ],
+            "wg-devops": [
+                "cla-checker",
+                "core-contributor-program-committers"
+            ],
+            "wg-frontend": [
+                "cla-checker",
+                "core-contributor-program-committers",
+                "frontend-all"
+            ],
+            "wg-marketing": [
+                "cla-checker"
+            ],
+            "wg-security": [
+                "cla-checker",
+                "security-working-group"
+            ],
+            "wg-translations": [
+                "cla-checker",
+                "wg-translations"
+            ],
+            "xapi-db-load": [
+                "axim-aximprovements",
+                "ccp-committer-ian2012",
+                "cla-checker",
+                "committers-analytics",
+                "xapi-db-load-writers"
+            ],
+            "xblock-drag-and-drop-v2": [
+                "arbi-bom",
+                "cla-checker"
+            ],
+            "xblock-free-text-response": [
+                "2u-edx-legacy",
+                "cla-checker"
+            ],
+            "xblock-google-drive": [
+                "arbi-bom",
+                "cla-checker",
+                "edx-requirements-bot"
+            ],
+            "xblock-image-explorer": [
+                "arbi-bom",
+                "cla-checker",
+                "edx-requirements-bot"
+            ],
+            "xblock-image-modal": [
+                "2u-edx-legacy",
+                "cla-checker"
+            ],
+            "xblock-in-video-quiz": [
+                "2u-edx-legacy",
+                "axim-aximprovements",
+                "cla-checker"
+            ],
+            "xblock-lti-consumer": [
+                "2u-edx-legacy",
+                "ccp-committer-agrendalath",
+                "ccp-committer-idegtiarov",
+                "ccp-committer-xitij2000",
+                "cla-checker"
+            ],
+            "xblock-qualtrics-survey": [
+                "2u-edx-legacy",
+                "cla-checker"
+            ],
+            "xblock-sdk": [
+                "2u-edx-legacy",
+                "axim-aximprovements",
+                "axim-engineering",
+                "ccp-committer-bradenmacdonald",
+                "ccp-committer-felipemontoya",
+                "ccp-committer-pdpinch",
+                "cla-checker"
+            ],
+            "xblock-skill-tagging": [
+                "cla-checker",
+                "community-release-managers",
+                "edx-requirements-bot"
+            ],
+            "xblock-sql-grader": [
+                "2u-edx-legacy",
+                "cla-checker"
+            ],
+            "xblock-submit-and-compare": [
+                "2u-edx-legacy",
+                "cla-checker"
+            ],
+            "xqueue": [
+                "2u-edx-legacy",
+                "arbi-bom",
+                "cla-checker",
+                "community-release-managers"
+            ],
+            "xqueue-watcher": [
+                "2u-edx-legacy",
+                "cla-checker"
+            ],
+            "xss-utils": [
+                "2u-edx-legacy",
+                "arbi-bom",
+                "cla-checker",
+                "edx-transifex-translations",
+                "pipeline-bot",
+                "site-reliability-engineering"
+            ]
+        },
+        "maintain": {
+            "XBlock": [
+                "axim-engineering"
+            ],
+            "aspects-dbt": [
+                "aspects-dbt-maintainers"
+            ],
+            "auth-backends": [
+                "ccp-committer-idegtiarov"
+            ],
+            "blockstore": [
+                "ccp-committer-bradenmacdonald"
+            ],
+            "ccx-keys": [
+                "ccp-committer-pdpinch"
+            ],
+            "code-annotations": [
+                "ccp-committer-regisb"
+            ],
+            "configuration": [
+                "site-reliability-engineering"
+            ],
+            "edx-ace": [
+                "ccp-committer-omarithawi"
+            ],
+            "edx-bulk-grades": [
+                "content-aurora"
+            ],
+            "edx-django-utils": [
+                "ccp-committer-felipemontoya",
+                "ccp-committer-regisb"
+            ],
+            "edx-ora2": [
+                "content-aurora"
+            ],
+            "edx-rbac": [
+                "ccp-committer-idegtiarov"
+            ],
+            "edx-rest-api-client": [
+                "ccp-committer-idegtiarov"
+            ],
+            "edx-toggles": [
+                "ccp-committer-regisb"
+            ],
+            "enterprise-access": [
+                "enterprise-titans"
+            ],
+            "event-bus-kafka": [
+                "arch-bom"
+            ],
+            "event-routing-backends": [
+                "arbi-bom",
+                "ccp-committer-ziafazal"
+            ],
+            "frontend-build": [
+                "ccp-committer-arbrandes"
+            ],
+            "frontend-component-footer": [
+                "ccp-committer-arbrandes"
+            ],
+            "frontend-component-header": [
+                "ccp-committer-arbrandes"
+            ],
+            "frontend-platform": [
+                "ccp-committer-arbrandes",
+                "fed-bom"
+            ],
+            "frontend-template-application": [
+                "ccp-committer-arbrandes"
+            ],
+            "opaque-keys": [
+                "ccp-committer-bradenmacdonald",
+                "ccp-committer-felipemontoya",
+                "ccp-committer-pdpinch"
+            ],
+            "openedx-app-android": [
+                "openedx-mobile-maintainers"
+            ],
+            "openedx-app-ios": [
+                "openedx-mobile-maintainers"
+            ],
+            "openedx-app-test": [
+                "2u-mobile-axinite"
+            ],
+            "openedx-aspects": [
+                "openedx-aspects-maintainers"
+            ],
+            "openedx-event-sink-clickhouse": [
+                "openedx-event-sink-clickhouse-maintainers"
+            ],
+            "openedx-events": [
+                "hooks-extension-framework"
+            ],
+            "openedx-filters": [
+                "hooks-extension-framework"
+            ],
+            "openedx-k8s-harmony": [
+                "openedx-k8s-harmony-maintainers"
+            ],
+            "openedx-wordpress-ecommerce": [
+                "ccp-committer-felipemontoya"
+            ],
+            "pinax-announcements": [
+                "arbi-bom"
+            ],
+            "taxonomy-connector": [
+                "2u-edx-legacy"
+            ],
+            "tutor-contrib-aspects": [
+                "tutor-contrib-aspects-maintainers"
+            ],
+            "wg-build-test-release": [
+                "build-test-release-wg-maintain"
+            ],
+            "xblock-drag-and-drop-v2": [
+                "ccp-committer-agrendalath"
+            ],
+            "xblock-google-drive": [
+                "ccp-committer-agrendalath"
+            ],
+            "xblock-image-explorer": [
+                "ccp-committer-agrendalath"
+            ],
+            "xblock-skill-tagging": [
+                "2u-xblockskilltagging-maintainers"
+            ]
+        },
+        "admin": {
+            "XBlock": [
+                "teaching-and-learning"
+            ],
+            "auth-backends": [
+                "arch-bom"
+            ],
+            "axim-engineering": [
+                "axim-engineering"
+            ],
+            "blockstore": [
+                "teaching-and-learning"
+            ],
+            "brand-openedx": [
+                "arch-bom",
+                "fedx-team",
+                "teaching-and-learning"
+            ],
+            "browserslist-config": [
+                "fedx-admin"
+            ],
+            "ccx-keys": [
+                "arch-bom",
+                "teaching-and-learning"
+            ],
+            "completion": [
+                "content-aurora",
+                "masters-devs-cosmonauts"
+            ],
+            "course-discovery": [
+                "edx-transifex-translations"
+            ],
+            "credentials": [
+                "edx-transifex-translations"
+            ],
+            "credentials-themes": [
+                "2u-aperture",
+                "edx-transifex-translations"
+            ],
+            "cs_comments_service": [
+                "teaching-and-learning"
+            ],
+            "devstack": [
+                "arbi-bom",
+                "arch-bom"
+            ],
+            "django-config-models": [
+                "arch-bom"
+            ],
+            "django-lang-pref-middleware": [
+                "arch-bom"
+            ],
+            "django-pyfs": [
+                "arch-bom"
+            ],
+            "django-splash": [
+                "arch-bom"
+            ],
+            "django-user-tasks": [
+                "arch-bom"
+            ],
+            "docs.openedx.org": [
+                "axim-engineering",
+                "axim-oncall"
+            ],
+            "ecommerce": [
+                "revenue-squad"
+            ],
+            "ecommerce-scripts": [
+                "revenue-squad"
+            ],
+            "ecommerce-worker": [
+                "revenue-squad"
+            ],
+            "edx-app-android": [
+                "edx-mobile-admin"
+            ],
+            "edx-app-ios": [
+                "edx-mobile-admin"
+            ],
+            "edx-app-test": [
+                "edx-mobile-admin"
+            ],
+            "edx-bootstrap": [
+                "arch-bom",
+                "fedx-admin",
+                "fedx-team"
+            ],
+            "edx-celeryutils": [
+                "arch-bom"
+            ],
+            "edx-cookiecutters": [
+                "arch-bom"
+            ],
+            "edx-django-utils": [
+                "arch-bom"
+            ],
+            "edx-drf-extensions": [
+                "arch-bom"
+            ],
+            "edx-lint": [
+                "arch-bom"
+            ],
+            "edx-notes-api": [
+                "content-aurora"
+            ],
+            "edx-platform": [
+                "arch-bom",
+                "teaching-and-learning"
+            ],
+            "edx-rbac": [
+                "arch-bom"
+            ],
+            "edx-repo-health": [
+                "arch-bom"
+            ],
+            "edx-rest-api-client": [
+                "arch-bom"
+            ],
+            "edx-toggles": [
+                "arch-bom"
+            ],
+            "edx-tools": [
+                "arch-bom"
+            ],
+            "edx-ui-toolkit": [
+                "fedx-admin"
+            ],
+            "enmerkar-underscore": [
+                "arch-bom"
+            ],
+            "eslint-config": [
+                "fedx-admin"
+            ],
+            "event-routing-backends": [
+                "arch-bom"
+            ],
+            "frontend-app-discussions": [
+                "edx-transifex-translations"
+            ],
+            "frontend-app-ecommerce": [
+                "revenue-squad"
+            ],
+            "frontend-app-enterprise-public-catalog": [
+                "enterprise-quokkas",
+                "fedx-admin"
+            ],
+            "frontend-app-learner-dashboard": [
+                "2u-aperture",
+                "2u-aurora",
+                "content-aurora"
+            ],
+            "frontend-app-learner-portal-enterprise": [
+                "fedx-admin"
+            ],
+            "frontend-app-learning": [
+                "teaching-and-learning"
+            ],
+            "frontend-app-library-authoring": [
+                "teaching-and-learning"
+            ],
+            "frontend-app-ora-grading": [
+                "content-aurora"
+            ],
+            "frontend-app-payment": [
+                "revenue-squad"
+            ],
+            "frontend-app-profile": [
+                "2u-aperture"
+            ],
+            "frontend-build": [
+                "fedx-admin",
+                "fedx-team"
+            ],
+            "frontend-enterprise": [
+                "fedx-admin"
+            ],
+            "frontend-lib-content-components": [
+                "teaching-and-learning"
+            ],
+            "frontend-lib-special-exams": [
+                "masters-devs-cosmonauts"
+            ],
+            "frontend-platform": [
+                "arch-bom",
+                "fedx-admin"
+            ],
+            "frontend-template-application": [
+                "fedx-team"
+            ],
+            "help-tokens": [
+                "arch-bom"
+            ],
+            "license-manager": [
+                "enterprise-titans"
+            ],
+            "olxcleaner": [
+                "olxcleaner-admin"
+            ],
+            "onboarding-course-introduction": [
+                "onboarding-course-introduction-admin"
+            ],
+            "opaque-keys": [
+                "teaching-and-learning"
+            ],
+            "open-edx-proposals": [
+                "arch-bom"
+            ],
+            "openedx-calc": [
+                "arch-bom"
+            ],
+            "openedx-chem": [
+                "teaching-and-learning"
+            ],
+            "openedx-translations": [
+                "edx-transifex-translations"
+            ],
+            "openedx-webhooks": [
+                "openedx-tooling"
+            ],
+            "paragon": [
+                "fedx-admin"
+            ],
+            "pytest-repo-health": [
+                "arch-bom"
+            ],
+            "pytest-warnings-report": [
+                "arch-bom"
+            ],
+            "repo-tools": [
+                "arch-bom"
+            ],
+            "studio-frontend": [
+                "edx-transifex-translations",
+                "teaching-and-learning"
+            ],
+            "stylelint-config-edx": [
+                "fedx-admin"
+            ],
+            "taxonomy-connector": [
+                "enterprise-markhors"
+            ],
+            "tubular": [
+                "pipeline-team",
+                "site-reliability-engineering"
+            ],
+            "web-fragments": [
+                "arch-bom",
+                "fedx-admin"
+            ],
+            "wg-frontend": [
+                "frontend-wg-admin"
+            ],
+            "wg-translations": [
+                "axim-engineering"
+            ],
+            "xblock-lti-consumer": [
+                "arch-bom"
+            ],
+            "xblock-sdk": [
+                "teaching-and-learning"
+            ],
+            "xqueue": [
+                "site-reliability-engineering"
+            ],
+            "xss-utils": [
+                "arch-bom"
+            ]
+        }
+    },
+    "repo_users": {
+        "write": {
+            "aspects-dbt": [
+                "edx-semantic-release"
+            ],
+            "conference-planning-2024-private": [
+                "amirnafees88",
+                "khawaja-awais"
+            ],
+            "docs.openedx.org": [
+                "openedx-read-the-docs-bot"
+            ],
+            "edx-app-android": [
+                "moeez96"
+            ],
+            "edx-app-ios": [
+                "moeez96"
+            ],
+            "edx-app-test": [
+                "asifbilal786",
+                "moeez96"
+            ],
+            "event-bus-redis": [
+                "edx-requirements-bot"
+            ],
+            "openedx-aspects": [
+                "openedx-read-the-docs-bot"
+            ],
+            "openedx-event-sink-clickhouse": [
+                "edx-requirements-bot"
+            ],
+            "openedx-events": [
+                "dianakhuang",
+                "edx-requirements-bot",
+                "openedx-read-the-docs-bot",
+                "robrap",
+                "timmc-edx"
+            ],
+            "openedx-filters": [
+                "edx-requirements-bot"
+            ],
+            "openedx-i18n": [
+                "regisb"
+            ],
+            "paragon": [
+                "edx-netlify"
+            ],
+            "tutor-contrib-aspects": [
+                "edx-requirements-bot",
+                "edx-semantic-release"
+            ],
+            "xapi-db-load": [
+                "edx-requirements-bot"
+            ],
+            "xblock-drag-and-drop-v2": [
+                "edx-requirements-bot"
+            ]
+        },
+        "maintain": {
+            "openedx-app-android": [
+                "marcotuts"
+            ],
+            "openedx-app-ios": [
+                "marcotuts"
+            ],
+            "wg-build-test-release": [
+                "jfavellar90"
+            ]
+        },
+        "admin": {
+            "edx-analytics-pipeline": [
+                "macdiesel"
+            ],
+            "frontend-build": [
+                "abdullahwaheed"
+            ],
+            "modular-learning": [
+                "bradenmacdonald",
+                "jmakowski1123"
+            ],
+            "openedx-app-android": [
+                "volodymyr-chekyrta"
+            ],
+            "openedx-app-ios": [
+                "volodymyr-chekyrta"
+            ],
+            "openedx-events": [
+                "felipemontoya",
+                "mariajgrimaldi"
+            ],
+            "openedx-filters": [
+                "felipemontoya",
+                "mariajgrimaldi"
+            ],
+            "openedx-wordpress-ecommerce": [
+                "DonatoBD",
+                "MaferMazu"
+            ],
+            "registrar": [
+                "iloveagent57",
+                "schenedx"
+            ],
+            "tinymce-language-selector": [
+                "edx-semantic-release"
+            ],
+            "typescript-config": [
+                "abdullahwaheed",
+                "adamstankiewicz"
+            ]
+        }
+    },
+    "team_members": {
+        "2u-aperture": [
+            "MaxFrank13",
+            "deborahgu",
+            "hurtstotouchfire",
+            "jsnwesson",
+            "justinhynes"
+        ],
+        "2u-arbi-bom": [
+            "UsamaSadiq",
+            "awais786",
+            "iamsobanjaved",
+            "irtazaakram",
+            "mumarkhan999",
+            "zubairshakoorarbisoft"
+        ],
+        "2u-arch-bom": [
+            "dianakhuang",
+            "robrap",
+            "timmc-edx"
+        ],
+        "2u-aurora": [
+            "Daniel-hershel",
+            "jansenk",
+            "jszewczulak",
+            "leangseu-edx",
+            "nsprenkle"
+        ],
+        "2u-cosmonauts": [
+            "MichaelRoytman",
+            "Zacharis278",
+            "alangsto",
+            "chennighan2u",
+            "ilee2u",
+            "spencertiberi",
+            "varshamenon4"
+        ],
+        "2u-edx-legacy": [
+            "AbdouSeck",
+            "AfaqShuaib09",
+            "AhtishamShahid",
+            "Ali-D-Akbar",
+            "BilalQamar95",
+            "BrandonHBodine",
+            "Daniel-hershel",
+            "DawoudSheraz",
+            "Gregpeinke",
+            "Guilleves",
+            "HammadAhmadWaqas",
+            "Hamza442",
+            "HamzaIsrar12",
+            "HassanJaveed84",
+            "JAAkana",
+            "JadeyOlivier",
+            "JodyBaileyy",
+            "KristinAoki",
+            "Lindvni",
+            "Mashal-m",
+            "MaxFrank13",
+            "MichaelRoytman",
+            "MueezKhan246",
+            "MushtaqRossier",
+            "NawfalAhmed",
+            "Nickett3",
+            "ReyesU2",
+            "Rodra",
+            "Syed-Ali-Abbas-Zaidi",
+            "UsamaSadiq",
+            "Zacharis278",
+            "abdullahwaheed",
+            "abdulrafey38",
+            "adamstankiewicz",
+            "aheykamp2u",
+            "ahsanshafiq742",
+            "aht007",
+            "ahtesham-quraish",
+            "akummins",
+            "alangsto",
+            "alex-sheehan-edx",
+            "amatta2u",
+            "asadazam93",
+            "asce1062",
+            "ashultz0",
+            "asifbilal786",
+            "attiyaIshaque",
+            "awais-ansari",
+            "awais786",
+            "ayesha-waris",
+            "ayub02",
+            "bcitro",
+            "bilalawan321",
+            "brobro10000",
+            "bseverino",
+            "bszabo",
+            "ccmelo",
+            "chennighan2u",
+            "chimsara",
+            "christopappas",
+            "colinbrash",
+            "connorhaugh",
+            "dan1d",
+            "danielleEriksen",
+            "deborahgu",
+            "dianakhuang",
+            "dixidroid",
+            "dnuzz",
+            "edx-deployment",
+            "edx-requirements-bot",
+            "edx-semantic-release",
+            "emrosarioa",
+            "eyatsenkoperpetio",
+            "farhan-arshad-dev",
+            "farhanumar",
+            "fhembecker",
+            "forgotvas",
+            "gabew1984",
+            "georgebabey",
+            "giddygitau",
+            "grmartin",
+            "hajorg",
+            "hamzawaleed01",
+            "hassan6190",
+            "hilltop16",
+            "hsinkoff",
+            "hurtstotouchfire",
+            "iamsobanjaved",
+            "ilee2u",
+            "iloveagent57",
+            "irfanuddinahmad",
+            "irtazaakram",
+            "ishahroz",
+            "jajjibhai008",
+            "jandino2u",
+            "jansenk",
+            "jesperhodge",
+            "jmakowski1123",
+            "johnnagro",
+            "jprodma2u",
+            "jristau1984",
+            "jsnwesson",
+            "jsongedx",
+            "jszewczulak",
+            "julianajlk",
+            "julianpalmerio",
+            "justEhmadSaeed",
+            "justinhynes",
+            "k1rill",
+            "kalebjdavenport",
+            "kashifch",
+            "katebygrace",
+            "katrinan029",
+            "kiram15",
+            "krishatcher",
+            "leangseu-edx",
+            "lucascalvino",
+            "macdiesel",
+            "mahamakifdar19",
+            "marlonkeating",
+            "mattdrayer",
+            "mbrown500",
+            "miankhalid",
+            "moeez96",
+            "mrazadar",
+            "mubbsharanwar",
+            "muhammad-ammar",
+            "muhammadadeeltajamul",
+            "mumarkhan999",
+            "muneebGH",
+            "mzeshanarif",
+            "nadeemshahzad",
+            "nizmaylova",
+            "nrobertson1992",
+            "nsprenkle",
+            "ochavarria2u",
+            "ohnickmoy",
+            "omerhabib26",
+            "openback",
+            "openedx-read-the-docs-bot",
+            "openedx-semantic-release-bot",
+            "pactflow-github",
+            "pjdvmalan",
+            "praveenram2u",
+            "pshiu",
+            "pwnage101",
+            "rayzhou-bit",
+            "rebke2u",
+            "rnr",
+            "robrap",
+            "roybrown-trilogyed",
+            "saadyousafarbi",
+            "saeedbashir",
+            "saleem-latif",
+            "sameenfatima78",
+            "schenedx",
+            "sergeymomot",
+            "shafqat-muneer",
+            "shafqatfarhan",
+            "shahbaz-shabbir05",
+            "srwang",
+            "stroccoli",
+            "sundasnoreen12",
+            "sunilgunisetty",
+            "syed-awais-ali",
+            "syedimranhassan",
+            "syedsajjadkazmii",
+            "the-real-cphillips",
+            "timmc-edx",
+            "touchapp",
+            "tpreston2u",
+            "usama101",
+            "uzairr",
+            "varshamenon4",
+            "wajeeha-khalid",
+            "zainab-amir",
+            "zamanafzal",
+            "zawan-ila",
+            "zubair-ce07",
+            "zubairshakoorarbisoft"
+        ],
+        "2u-fed-bom": [
+            "BilalQamar95",
+            "Mashal-m",
+            "Syed-Ali-Abbas-Zaidi",
+            "abdullahwaheed"
+        ],
+        "2u-infinity": [
+            "AhtishamShahid",
+            "asadazam93",
+            "awais-ansari",
+            "ayesha-waris",
+            "ayub02",
+            "muhammadadeeltajamul",
+            "saadyousafarbi",
+            "sundasnoreen12"
+        ],
+        "2u-kubrick": [
+            "ashultz0",
+            "davidnuon",
+            "germanolleunlp",
+            "rijuma",
+            "schenedx"
+        ],
+        "2u-markhors": [
+            "irfanuddinahmad",
+            "muhammad-ammar",
+            "saleem-latif",
+            "sameenfatima78",
+            "zamanafzal"
+        ],
+        "2u-mobile": [
+            "HamzaIsrar12",
+            "bilalawan321",
+            "farhan-arshad-dev",
+            "hassan6190",
+            "jawad-khan",
+            "miankhalid",
+            "moeez96",
+            "omerhabib26",
+            "saeedbashir"
+        ],
+        "2u-mobile-axinite": [
+            "HamzaIsrar12",
+            "bilalawan321",
+            "ekangedx",
+            "farhan-arshad-dev",
+            "hassan6190",
+            "jawad-khan",
+            "miankhalid",
+            "moeez96",
+            "moiz994",
+            "omerhabib26",
+            "saeedbashir",
+            "shafqat-muneer"
+        ],
+        "2u-mobile-touchapp": [
+            "eyatsenkoperpetio",
+            "forgotvas",
+            "k1rill",
+            "nizmaylova",
+            "rnr",
+            "sergeymomot",
+            "touchapp"
+        ],
+        "2u-phoenix": [
+            "AfaqShuaib09",
+            "Ali-D-Akbar",
+            "DawoudSheraz",
+            "kashifch",
+            "uzairr",
+            "zawan-ila"
+        ],
+        "2u-purchase": [
+            "HammadAhmadWaqas",
+            "colinbrash",
+            "grmartin",
+            "pshiu",
+            "zubair-ce07"
+        ],
+        "2u-quokkas": [
+            "alex-sheehan-edx",
+            "bcitro",
+            "johnnagro",
+            "kiram15",
+            "marlonkeating"
+        ],
+        "2u-security-working-group": [
+            "katebygrace"
+        ],
+        "2u-sre": [
+            "atrepca",
+            "farhanumar",
+            "nadeemshahzad",
+            "ohnickmoy",
+            "s33dunda",
+            "syed-awais-ali",
+            "syedimranhassan",
+            "the-real-cphillips"
+        ],
+        "2u-supernova": [
+            "BrandonHBodine",
+            "Guilleves",
+            "Rodra",
+            "hajorg",
+            "jristau1984"
+        ],
+        "2u-titans": [
+            "adamstankiewicz",
+            "brobro10000",
+            "emrosarioa",
+            "iloveagent57",
+            "macdiesel",
+            "pwnage101"
+        ],
+        "2u-tnl": [
+            "KristinAoki",
+            "bszabo",
+            "cablaa77",
+            "connorhaugh",
+            "jesperhodge",
+            "rayzhou-bit"
+        ],
+        "2u-vanguards": [
+            "ahtesham-quraish",
+            "attiyaIshaque",
+            "mubbsharanwar",
+            "syedsajjadkazmii",
+            "zainab-amir"
+        ],
+        "2u-xblockskilltagging-maintainers": [
+            "irfanuddinahmad",
+            "sameenfatima78"
+        ],
+        "analytics-push": [
+            "AbdouSeck",
+            "Hamza442",
+            "HassanJaveed84",
+            "ahsanshafiq742",
+            "edx-analytics-automation",
+            "macdiesel",
+            "pwnage101",
+            "usama101"
+        ],
+        "arbi-bom": [
+            "UsamaSadiq",
+            "awais786",
+            "iamsobanjaved",
+            "mumarkhan999",
+            "zubairshakoorarbisoft"
+        ],
+        "arch-bom": [
+            "timmc-edx"
+        ],
+        "aspects-dbt-maintainers": [],
+        "aspects-dbt-writers": [],
+        "axim-aximprovements": [
+            "farhan",
+            "salman2013",
+            "thezaeemaanwar"
+        ],
+        "axim-engineering": [],
+        "axim-oncall": [],
+        "axim-staff": [
+            "jmakowski1123",
+            "mphilbrick211"
+        ],
+        "backstage-maintainers": [],
+        "blockstore-maintainers": [
+            "bradenmacdonald"
+        ],
+        "build-test-release-wg-maintain": [
+            "cmltaWt0"
+        ],
+        "build-test-release-wg-security-patchers": [
+            "magajh"
+        ],
+        "cc-events": [],
+        "cc-modular-learning": [
+            "bradenmacdonald",
+            "pomegranited"
+        ],
+        "ccp-committer-agrendalath": [
+            "Agrendalath"
+        ],
+        "ccp-committer-arbrandes": [],
+        "ccp-committer-bbrsofiane": [
+            "BbrSofiane"
+        ],
+        "ccp-committer-bmtcril": [],
+        "ccp-committer-bradenmacdonald": [
+            "bradenmacdonald"
+        ],
+        "ccp-committer-cmltawt0": [
+            "cmltaWt0"
+        ],
+        "ccp-committer-farhaanbukhsh": [
+            "farhaanbukhsh"
+        ],
+        "ccp-committer-felipemontoya": [
+            "felipemontoya"
+        ],
+        "ccp-committer-gabor-boros": [
+            "gabor-boros"
+        ],
+        "ccp-committer-glugovgrglib": [
+            "GlugovGrGlib"
+        ],
+        "ccp-committer-ian2012": [
+            "Ian2012"
+        ],
+        "ccp-committer-idegtiarov": [
+            "idegtiarov"
+        ],
+        "ccp-committer-jfavellar90": [
+            "jfavellar90"
+        ],
+        "ccp-committer-jswope00": [
+            "jswope00"
+        ],
+        "ccp-committer-mafermazu": [
+            "MaferMazu"
+        ],
+        "ccp-committer-mariajgrimaldi": [
+            "mariajgrimaldi"
+        ],
+        "ccp-committer-mtyaka": [
+            "mtyaka"
+        ],
+        "ccp-committer-navinkarkera": [
+            "navinkarkera"
+        ],
+        "ccp-committer-omarithawi": [
+            "OmarIthawi"
+        ],
+        "ccp-committer-pdpinch": [
+            "pdpinch"
+        ],
+        "ccp-committer-pkulkark": [
+            "pkulkark"
+        ],
+        "ccp-committer-pomegranited": [
+            "pomegranited"
+        ],
+        "ccp-committer-regisb": [
+            "regisb"
+        ],
+        "ccp-committer-xitij2000": [
+            "xitij2000"
+        ],
+        "ccp-committer-ziafazal": [
+            "ziafazal"
+        ],
+        "cla-checker": [],
+        "cla-problems": [
+            "mphilbrick211"
+        ],
+        "committers-analytics": [
+            "Ian2012",
+            "jmakowski1123",
+            "pomegranited"
+        ],
+        "committers-edx-platform": [
+            "pomegranited"
+        ],
+        "committers-event-routing-backends": [
+            "Ian2012"
+        ],
+        "committers-frontend-component-ai-translations": [
+            "hajorg",
+            "jristau1984"
+        ],
+        "committers-openedx-mobile": [
+            "dixidroid",
+            "eyatsenkoperpetio",
+            "forgotvas",
+            "k1rill",
+            "nizmaylova",
+            "rnr",
+            "sergeymomot",
+            "touchapp"
+        ],
+        "community-release-managers": [
+            "cmltaWt0"
+        ],
+        "content-aurora": [
+            "jansenk",
+            "jszewczulak",
+            "leangseu-edx",
+            "nsprenkle"
+        ],
+        "cookie-policy-banner-maintainers": [],
+        "core-contributor-program-committers": [
+            "Agrendalath",
+            "BbrSofiane",
+            "MaferMazu",
+            "OmarIthawi",
+            "antoviaque",
+            "bradenmacdonald",
+            "cmltaWt0",
+            "farhaanbukhsh",
+            "felipemontoya",
+            "idegtiarov",
+            "jfavellar90",
+            "jswope00",
+            "mariajgrimaldi",
+            "mtyaka",
+            "pdpinch",
+            "pkulkark",
+            "pomegranited",
+            "regisb",
+            "xitij2000",
+            "ziafazal"
+        ],
+        "course-discovery-maintainers": [
+            "AfaqShuaib09",
+            "Ali-D-Akbar",
+            "DawoudSheraz",
+            "uzairr",
+            "zawan-ila"
+        ],
+        "depr-wg": [
+            "dianakhuang",
+            "pdpinch"
+        ],
+        "domain-translations": [
+            "OmarIthawi"
+        ],
+        "ecommerce-maintainers": [
+            "JadeyOlivier",
+            "MushtaqRossier",
+            "adamstankiewicz",
+            "christopappas",
+            "colinbrash",
+            "grmartin",
+            "iloveagent57",
+            "jawad-khan",
+            "johnnagro",
+            "julianajlk",
+            "macdiesel",
+            "moeez96",
+            "mumarkhan999",
+            "pshiu",
+            "zubair-ce07"
+        ],
+        "edx-infinity": [
+            "AhtishamShahid",
+            "awais-ansari",
+            "ayesha-waris",
+            "muhammadadeeltajamul",
+            "saadyousafarbi"
+        ],
+        "edx-mobile-admin": [],
+        "edx-mobile-push": [
+            "HamzaIsrar12",
+            "bilalawan321",
+            "farhan-arshad-dev",
+            "omerhabib26",
+            "saeedbashir",
+            "shafqat-muneer"
+        ],
+        "edx-requirements-bot": [
+            "edx-requirements-bot"
+        ],
+        "edx-status-bot": [],
+        "edx-transifex-translations": [],
+        "enterprise-markhors": [
+            "irfanuddinahmad",
+            "jajjibhai008",
+            "muhammad-ammar",
+            "sameenfatima78",
+            "zamanafzal"
+        ],
+        "enterprise-quokkas": [
+            "alex-sheehan-edx",
+            "johnnagro",
+            "katrinan029",
+            "kiram15",
+            "marlonkeating"
+        ],
+        "enterprise-titans": [
+            "alex-sheehan-edx",
+            "brobro10000",
+            "emrosarioa",
+            "iloveagent57",
+            "johnnagro",
+            "pwnage101"
+        ],
+        "fed-bom": [
+            "BilalQamar95",
+            "Mashal-m",
+            "Syed-Ali-Abbas-Zaidi",
+            "abdullahwaheed"
+        ],
+        "fedx-admin": [
+            "adamstankiewicz"
+        ],
+        "fedx-team": [
+            "MichaelRoytman",
+            "adamstankiewicz",
+            "georgebabey",
+            "julianajlk",
+            "justinhynes"
+        ],
+        "frontend-all": [
+            "viktorrusakov"
+        ],
+        "frontend-mfes-all": [],
+        "frontend-mfes-base": [],
+        "frontend-wg-admin": [
+            "adamstankiewicz",
+            "bseverino"
+        ],
+        "hooks-extension-framework": [],
+        "marketing-wg": [
+            "NicoleKessler",
+            "TanahaRG",
+            "eetcheverry",
+            "juancamilom",
+            "jyliugithub",
+            "kalebjdavenport",
+            "trabby"
+        ],
+        "masters-devs-cosmonauts": [],
+        "olxcleaner-admin": [
+            "pdpinch"
+        ],
+        "onboarding-course-introduction-admin": [
+            "OmarIthawi"
+        ],
+        "open-edx-product-managers": [
+            "Daniel-hershel",
+            "ProductRyan",
+            "ayub02",
+            "bpedx",
+            "cablaa77",
+            "czhang0912",
+            "jmakowski1123",
+            "spencertiberi",
+            "wajeeha-khalid"
+        ],
+        "openedx-aspects-maintainers": [],
+        "openedx-aspects-writers": [
+            "crathbun428",
+            "jmakowski1123"
+        ],
+        "openedx-courses": [
+            "farhaanbukhsh",
+            "gabrieldamours",
+            "jalondonot",
+            "mariajgrimaldi"
+        ],
+        "openedx-demo-course-maintainers": [
+            "jswope00"
+        ],
+        "openedx-event-sink-clickhouse-maintainers": [
+            "Ian2012"
+        ],
+        "openedx-event-sink-clickhouse-writers": [],
+        "openedx-k8s-harmony-maintainers": [
+            "bradenmacdonald",
+            "felipemontoya",
+            "jfavellar90"
+        ],
+        "openedx-mobile-maintainers": [
+            "volodymyr-chekyrta"
+        ],
+        "openedx-npm-release-bots": [
+            "edx-semantic-release",
+            "openedx-semantic-release-bot"
+        ],
+        "openedx-pr-sandbox-creators": [
+            "PKulkoRaccoonGang",
+            "connorhaugh",
+            "gabor-boros",
+            "ihor-romaniuk",
+            "open-craft-grove",
+            "ruzniaievdm"
+        ],
+        "openedx-rtd-bot": [
+            "openedx-read-the-docs-bot"
+        ],
+        "openedx-test-course-maintainers": [],
+        "openedx-tooling": [],
+        "openedx-triage": [
+            "0x29a",
+            "AbdouSeck",
+            "AfaqShuaib09",
+            "Agrendalath",
+            "AhtishamShahid",
+            "Ali-D-Akbar",
+            "ArturGaspar",
+            "Asespinel",
+            "BbrSofiane",
+            "BilalQamar95",
+            "BrandonHBodine",
+            "BryanttV",
+            "Daniel-hershel",
+            "DanielVZ96",
+            "DawoudSheraz",
+            "DmytroAlipov",
+            "Faraz32123",
+            "GlugovGrGlib",
+            "Gregpeinke",
+            "Guilleves",
+            "HammadAhmadWaqas",
+            "Hamza442",
+            "HamzaIsrar12",
+            "HassanJaveed84",
+            "Ian2012",
+            "Inferato",
+            "JAAkana",
+            "JadeyOlivier",
+            "JodyBaileyy",
+            "KristinAoki",
+            "Lindvni",
+            "Lunyachek",
+            "MaferMazu",
+            "Mashal-m",
+            "MaxFrank13",
+            "MichaelRoytman",
+            "MueezKhan246",
+            "MushtaqRossier",
+            "NawfalAhmed",
+            "Nickett3",
+            "NicoleKessler",
+            "OmarIthawi",
+            "PKulkoRaccoonGang",
+            "ProductRyan",
+            "ReyesU2",
+            "Rodra",
+            "Syed-Ali-Abbas-Zaidi",
+            "TanahaRG",
+            "Toxicom",
+            "UsamaSadiq",
+            "Zacharis278",
+            "abdullahwaheed",
+            "adamstankiewicz",
+            "aheykamp2u",
+            "ahsanshafiq742",
+            "aht007",
+            "ahtesham-quraish",
+            "akummins",
+            "alangsto",
+            "alex-sheehan-edx",
+            "ali-hugo",
+            "amatta2u",
+            "angonz",
+            "antoviaque",
+            "asadazam93",
+            "asce1062",
+            "ashultz0",
+            "asifbilal786",
+            "atrepca",
+            "attiyaIshaque",
+            "awais-ansari",
+            "awais786",
+            "ayesha-waris",
+            "ayub02",
+            "bcitro",
+            "bilalawan321",
+            "bradenmacdonald",
+            "brobro10000",
+            "bseverino",
+            "bszabo",
+            "cablaa77",
+            "cassiezamparini",
+            "ccmelo",
+            "chennighan2u",
+            "chimsara",
+            "christopappas",
+            "cintnguyen",
+            "cmltaWt0",
+            "colinbrash",
+            "connorhaugh",
+            "crathbun428",
+            "czhang0912",
+            "dan1d",
+            "danielleEriksen",
+            "deborahgu",
+            "dianakhuang",
+            "dixidroid",
+            "dnuzz",
+            "dyudyunov",
+            "edx-analytics-automation",
+            "edx-deployment",
+            "edx-github-actions-runner",
+            "edx-netlify",
+            "edx-pipeline-bot",
+            "edx-requirements-bot",
+            "edx-secure",
+            "edx-semantic-release",
+            "eetcheverry",
+            "ehuthmacher",
+            "ekangedx",
+            "emrosarioa",
+            "eyatsenkoperpetio",
+            "farhaanbukhsh",
+            "farhan",
+            "farhan-arshad-dev",
+            "farhanumar",
+            "felipemontoya",
+            "feoh",
+            "fhembecker",
+            "forgotvas",
+            "gabew1984",
+            "gabor-boros",
+            "gabrieldamours",
+            "georgebabey",
+            "ghassanmas",
+            "giddygitau",
+            "grmartin",
+            "hajorg",
+            "hamzawaleed01",
+            "hassan6190",
+            "hilltop16",
+            "hopewise",
+            "hsinkoff",
+            "httpsmenahassan",
+            "hurtstotouchfire",
+            "iamsobanjaved",
+            "idegtiarov",
+            "ihor-romaniuk",
+            "ilee2u",
+            "iloveagent57",
+            "irfanuddinahmad",
+            "irtazaakram",
+            "ishahroz",
+            "itsjeyd",
+            "jajjibhai008",
+            "jalondonot",
+            "jandino2u",
+            "jansenk",
+            "jawad-khan",
+            "jesperhodge",
+            "jfavellar90",
+            "jmakowski1123",
+            "johnnagro",
+            "johnvente",
+            "jprodma2u",
+            "jristau1984",
+            "jsnwesson",
+            "jsongedx",
+            "jswope00",
+            "jszewczulak",
+            "juancamilom",
+            "julianajlk",
+            "julianpalmerio",
+            "justEhmadSaeed",
+            "justinhynes",
+            "jyliugithub",
+            "k1rill",
+            "kalebjdavenport",
+            "kashifch",
+            "katebygrace",
+            "katrinan029",
+            "kiram15",
+            "krishatcher",
+            "kyrylo-kh",
+            "leangseu-edx",
+            "lucascalvino",
+            "luisfelipec95",
+            "macdiesel",
+            "magajh",
+            "mahamakifdar19",
+            "marcotuts",
+            "mariajgrimaldi",
+            "marlonkeating",
+            "mattdrayer",
+            "mbrown500",
+            "miankhalid",
+            "moeez96",
+            "moiz994",
+            "monteri",
+            "mphilbrick211",
+            "mrazadar",
+            "mtyaka",
+            "mubbsharanwar",
+            "muhammad-ammar",
+            "muhammadadeeltajamul",
+            "mumarkhan999",
+            "muneebGH",
+            "mzeshanarif",
+            "nadeemshahzad",
+            "navinkarkera",
+            "nizmaylova",
+            "nrobertson1992",
+            "nsprenkle",
+            "ochavarria2u",
+            "ohnickmoy",
+            "omerhabib26",
+            "open-craft-grove",
+            "openback",
+            "openedx-read-the-docs-bot",
+            "pactflow-github",
+            "pdpinch",
+            "pjdvmalan",
+            "pkulkark",
+            "pomegranited",
+            "praveenram2u",
+            "pshiu",
+            "pwnage101",
+            "rayzhou-bit",
+            "rebke2u",
+            "regisb",
+            "rijuma",
+            "rnr",
+            "robrap",
+            "roybrown-trilogyed",
+            "rpenido",
+            "s33dunda",
+            "saadyousafarbi",
+            "saeedbashir",
+            "saleem-latif",
+            "salman2013",
+            "sambapete",
+            "sameenfatima78",
+            "schenedx",
+            "sergeymomot",
+            "shafqatfarhan",
+            "shahbaz-shabbir05",
+            "spencertiberi",
+            "srwang",
+            "steff456",
+            "stroccoli",
+            "sundasnoreen12",
+            "sunilgunisetty",
+            "syed-awais-ali",
+            "syedimranhassan",
+            "syedsajjadkazmii",
+            "tecoholic",
+            "the-real-cphillips",
+            "thezaeemaanwar",
+            "timmc-edx",
+            "touchapp",
+            "tpasipamire",
+            "tpreston2u",
+            "trabby",
+            "usama101",
+            "uzairr",
+            "varshamenon4",
+            "viktorrusakov",
+            "vladislavkeblysh",
+            "wajeeha-khalid",
+            "xitij2000",
+            "yusuf-musleh",
+            "zainab-amir",
+            "zamanafzal",
+            "zawan-ila",
+            "ziafazal",
+            "zubair-ce07",
+            "zubairshakoorarbisoft"
+        ],
+        "openedx-webhooks-maintainers": [],
+        "perf-interest": [
+            "DawoudSheraz",
+            "MichaelRoytman",
+            "jansenk"
+        ],
+        "pipeline-bot": [
+            "edx-pipeline-bot",
+            "edx-secure"
+        ],
+        "pipeline-team": [
+            "macdiesel",
+            "nadeemshahzad",
+            "srwang"
+        ],
+        "revenue-squad": [
+            "NawfalAhmed",
+            "aht007",
+            "christopappas",
+            "grmartin",
+            "johnnagro",
+            "mrazadar",
+            "shafqatfarhan",
+            "zubair-ce07"
+        ],
+        "rg-mobile": [
+            "IvanStepanok",
+            "PavloNetrebchuk",
+            "volodymyr-chekyrta"
+        ],
+        "roadmap-editors": [
+            "jmakowski1123",
+            "regisb",
+            "robrap"
+        ],
+        "scc-conference-team": [
+            "GwynSCC"
+        ],
+        "security-working-group": [
+            "alangsto",
+            "magajh",
+            "pshiu"
+        ],
+        "site-reliability-engineering": [
+            "farhanumar",
+            "katebygrace",
+            "nadeemshahzad",
+            "ohnickmoy",
+            "syedimranhassan"
+        ],
+        "teaching-and-learning": [
+            "KristinAoki",
+            "bszabo",
+            "connorhaugh",
+            "jesperhodge",
+            "jristau1984",
+            "rayzhou-bit",
+            "tpreston2u"
+        ],
+        "tutor-contrib-aspects-maintainers": [
+            "Ian2012"
+        ],
+        "tutor-contrib-clickhouse-writers": [
+            "pomegranited"
+        ],
+        "vanguards": [
+            "ahtesham-quraish",
+            "attiyaIshaque",
+            "mubbsharanwar",
+            "syedsajjadkazmii"
+        ],
+        "wg-translations": [
+            "TanahaRG",
+            "eetcheverry"
+        ],
+        "wg-translations-triage": [
+            "ghassanmas"
+        ],
+        "xapi-db-load-writers": [
+            "pomegranited"
+        ]
+    }
+}
