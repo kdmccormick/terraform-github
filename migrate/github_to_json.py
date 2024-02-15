@@ -154,6 +154,10 @@ def fetch_repo_permissions(
             LOG.info("  Skipping repo %s; excluded for debugging.", repo_name)
             continue
 
+        if "-ghsa-" in repo_name:
+            LOG.info("  Skipping ghsa repo %s", repo_name)
+            continue
+
         LOG.info("  Fetching permissions for repo %s.", repo_name)
 
         # For this repo, we now want a build a mapping from teams to access
